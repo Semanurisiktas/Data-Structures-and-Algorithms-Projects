@@ -1,4 +1,5 @@
 # Data-Structures-and-Algorithms-Projects
+This repo covers the assignments for the data structures and algorithms course.
 
 ## Project 1
 
